@@ -12,11 +12,12 @@
 - [Go SDK](https://github.com/tymon42/rum-go-sdk)
 - [Python SDK](https://github.com/liujuanjuan1984/rumpy)
 
-## Dapp
+## Full Node App
 - [Rum-app: Desktop app for full node](https://github.com/rumsystem/rum-app)
+
+## Light Node App
 - [Rum-feed: Decentralized micro blog](https://github.com/okdaodine/rum-feed)
 - [Port: BBS + NFT](https://github.com/rumsystem/nft-bbs)
 - [Rum-demo: Simple demo for Rum developer tutorial](https://github.com/okdaodine/rum-demo)
 - [Rum-permission-demo](https://github.com/okdaodine/rum-permission-demo)
 - [Rum-chat](https://github.com/okdaodine/rum-chat)
-
