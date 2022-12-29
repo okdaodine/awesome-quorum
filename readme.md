@@ -17,6 +17,6 @@
 - [Rum-feed: Decentralized micro blog](https://github.com/okdaodine/rum-feed)
 - [Port: BBS + NFT](https://github.com/rumsystem/nft-bbs)
 - [Rum-demo: Simple demo for Rum developer tutorial](https://github.com/okdaodine/rum-demo)
-- [Rum-permission-demo: Simple permission demo](https://github.com/okdaodine/rum-chat)
-- [Rum-chat: Simple chat demo](https://github.com/okdaodine/rum-chat)
+- [Rum-permission-demo](https://github.com/okdaodine/rum-chat)
+- [Rum-chat](https://github.com/okdaodine/rum-chat)
 
