@@ -7,7 +7,7 @@
 - [Quorum API](https://docs.rumsystem.net/rest-api/#/)
 - [Rum Docs](https://docs.rumsystem.net)
 - [Rum Node](https://node.rumsystem.net/)
-- [GUI For Fullnode](https://gui.node.rumsystem.net)
+- [Rum GUI For Fullnode](https://gui.node.rumsystem.net)
 
 ## SDK
 
